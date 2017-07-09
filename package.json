@@ -1,0 +1,23 @@
+{
+  "name": "herokustarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgrubb/herokustarter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgrubb/herokustarter/issues"
+  },
+  "homepage": "https://github.com/jamesgrubb/herokustarter#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
