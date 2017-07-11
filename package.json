@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/jamesgrubb/herokustarter#readme",
   "dependencies": {
+    "cloudinary": "^1.9.0",
     "express": "^4.15.3",
     "pug": "^2.0.0-rc.2"
   },
   "devDependencies": {
+    "cloudinary": "^1.9.0",
     "dotenv": "^4.0.0"
   }
 }
