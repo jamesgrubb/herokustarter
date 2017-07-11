@@ -2,9 +2,9 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const cloudinary = require('cloudinary');
-if (process.env.NODE_ENV !== 'production') {
-require('dotenv').config({path : 'process.env'})
-}
+// if (process.env.NODE_ENV !== 'production') {
+// require('dotenv').config({path : 'process.env'})
+// }
 //CLOUDINARY
 
 // cloudinary.config({ 
